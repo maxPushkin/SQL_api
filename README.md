@@ -1,4 +1,4 @@
-# Homework
+# Home task
 
 
 ![Image Description](diagramm.png)
