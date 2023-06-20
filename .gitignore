@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.py
+!*.html
+!*Dockerfile
+!*.yaml
+!*.yml
+!*.conf
+!*.tf
+!*.sql
+!*.txt
