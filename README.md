@@ -5,7 +5,7 @@
 
 # Basic flow:
 
-When a POST request (including the username) is made to the / endpoint, it establishes a connection to the MySQL database.
+When a POST request (including the username) is made to the ״/״ endpoint, it establishes a connection to the MySQL database.
 
 It tries to fetch the user with the given username.
 
